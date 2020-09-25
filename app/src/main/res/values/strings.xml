@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebApp</string>
+    <string name="instructions">Enter a Book</string>
+    <string name="input_hint">Enter a  Books</string>
+    <string name="button_text">Search Books</string>
+</resources>
